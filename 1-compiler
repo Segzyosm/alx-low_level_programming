@@ -1,2 +1,2 @@
 #bin/bash
-cc -c $CFILE file1.o -o file2.o
+cc -c file1.o file4.o
