@@ -1,2 +1,2 @@
 #bin/bash
-gcc -c $CFILE file1.o -o file2.o
+cc -c $CFILE file1.o -o file2.o
