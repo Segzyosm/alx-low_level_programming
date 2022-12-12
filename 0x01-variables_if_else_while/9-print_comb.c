@@ -12,7 +12,7 @@ int main(void)
 
 	int num;
 
-	for (numbe = 0; num <= 9; num++)
+	for (numb = 0; num <= 9; num++)
 
 	{
 	
